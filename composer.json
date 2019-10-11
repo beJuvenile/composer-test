@@ -1,5 +1,5 @@
 {
-    "name": "openlib/functions",
+    "name": "composer/test",
     "description": "常用函数集",
     "type": "library",
     "license": "MIT",
